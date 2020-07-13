@@ -1,0 +1,21 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html">
+<link rel="stylesheet" href="style.css"  type="text/css">
+<title>MySQL</title>
+</head>
+<brody>
+<form action="rec.php" method="post">
+<input type="text" name="author" placeholder="Автор" size="30"><br/>
+<br/>
+<input type="text" name="title" placeholder="Название" size="30"><br/>
+<br/>
+<input  type="text" name="text" placeholder="Текст" size="30"><br/>
+<br/>
+<input id="submit" type="submit" value="Записать"><br/>
+</form>
+</body>
+</html>
